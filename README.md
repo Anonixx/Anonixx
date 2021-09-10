@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Anonixx
+- 👀 I’m interested in learning new languages
+- 🌱 I’m currently learning Html, css, java
